@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*Fazer um programa em C que imprime uma tabela com a tabuada de 1 a 9
-de um número qualquer digitado pelo usuário.*/
+de um nÃºmero qualquer digitado pelo usuÃ¡rio.*/
 
 int main(){
 	int n;
