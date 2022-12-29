@@ -1,6 +1,6 @@
-/*12.Faça um programa que resolva a seguinte pergunta:
-a. Sabendo que os números da sequência (1, x, 7, y) estão em
-progressão aritmética, quanto vale a soma x + y?*/
+/*12.FaÃ§a um programa que resolva a seguinte pergunta:
+a. Sabendo que os nÃºmeros da sequÃªncia (1, x, 7, y) estÃ£o em
+progressÃ£o aritmÃ©tica, quanto vale a soma x + y?*/
 
 #include <stdio.h>
 
